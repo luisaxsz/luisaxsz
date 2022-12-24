@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante de ciências da computação
 - 🌱 Estou estudando javascript, git e github
-- 📫 Você pode me achar no LinkeId luisaxsz 
+- 📫 Você pode me achar no linkedIn luisaxsz 
 - 😄 Pronouns: Ela/Dela
 <div align="left">
   <a href="https://github.com/rafaballerini">
