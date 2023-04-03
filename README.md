@@ -1,7 +1,8 @@
 ### Olá!! Eu sou a Maria Luisa.
 
-- 🔭 Sou estudante de ciências da computação
-- 🌱 Estou estudando javascript, git e github
+*  Back-End
+*  Sou estudante de ciências da computação.
+*  Estou estudando javascript, git e github
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaxsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
