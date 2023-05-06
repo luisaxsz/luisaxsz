@@ -13,9 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Imagem_personalizada" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/12/24/qxGrwc.download20221206130127.th.png" border="0">
 </div>
-
 ##
-
 <div> 
  
   <a href="https://www.instagram.com/luisaxsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
