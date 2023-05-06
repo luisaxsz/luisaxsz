@@ -5,7 +5,7 @@
 *  Estou estudando javascript, git e github
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img>(https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&layout=compact)](https://github.com/anuraghazra/github-readme-stats<img>
 </div>
 <div style="display: inline_block;"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
