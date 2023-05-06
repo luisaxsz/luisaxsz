@@ -5,7 +5,7 @@
 *  Estou estudando javascript, git e github
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"><img>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&hide_progress=true"><img>
 </div>
 <div style="display: inline_block;"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
