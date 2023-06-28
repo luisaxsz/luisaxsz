@@ -2,7 +2,7 @@
 
 *  Back-End
 *  Sou estudante de ciências da computação.
-*  Estou estudando javascript, git e github
+*  Estou estudando no momento java.
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&hide_progress=true&theme=radical"><img>
