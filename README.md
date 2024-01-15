@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Maria Luisa.
+## Olá!! Eu sou a Maria Luisa.
 
 *  Back-End
 *  Sou estudante de ciências da computação.
@@ -17,7 +17,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-##
+## Projetos em Andamento
+<a href="https://github.com/luisaxsz/Angular-Alura">
+    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Angular-Alura&theme=radical&border_radius=20"/>
+  </a>
+  <a href="https://github.com/luisaxsz/Controle-Gastos-2.0">
+    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Controle-Gastos-2.0&theme=radical&border_radius=20"/>
+  </a>
+
+  ## Onde você pode me achar
 <div> 
  
   <a href="https://www.instagram.com/luisaxsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
