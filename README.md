@@ -22,8 +22,8 @@
 <a href="https://github.com/luisaxsz/Angular-Alura">
     <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Angular-Alura&theme=radical&border_radius=20"/>
   </a>
-  <a href="https://github.com/luisaxsz/3257-java-screenmatch-com-spring">
-    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=3257-java-screenmatch-com-spring&theme=radical&border_radius=20"/>
+  <a href="https://github.com/luisaxsz/Java-trabalhando-com-lambdas-streams-e-Spring-Framework.git">
+    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Java-trabalhando-com-lambdas-streams-e-Spring-Framework&theme=radical&border_radius=20"/>
   </a>
 
 
