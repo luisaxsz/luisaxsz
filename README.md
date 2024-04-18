@@ -1,7 +1,8 @@
 ## Olá!! Eu sou a Maria Luisa.
 
-*  Back-End
-*  Sou estudante de ciências da computação.
+*  Atualmente atuando como estágiaria em desenvolvimento full stack com java e angular.
+*  Sou estudante de ciências da computação atualmente no 5° semestre.
+*  Estudando atualmente kubernets e aprimorando minhas habilidades em java e angular.
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&hide_progress=true&theme=radical"><img>
