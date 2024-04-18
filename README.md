@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Maria Luisa.
 
-*  Atualmente atuando como estágiaria em desenvolvimento full stack com java e angular.
 *  Sou estudante de ciências da computação atualmente no 5° semestre.
+*  Estágiaria em desenvolvimento full stack com java e angular.
 *  Estudando atualmente kubernets e aprimorando minhas habilidades em java e angular.
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
