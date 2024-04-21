@@ -21,7 +21,7 @@
   
 ## Projetos em Andamento
 <a href="https://github.com/luisaxsz/Curso-Kubernets-Alura">
-    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Curso-Kubernets-Alura&theme=radical&border_radius=20"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Curso-Kubernets-Alura&theme=radical&border_radius=20"/>
   </a>
 
 
