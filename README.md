@@ -20,8 +20,8 @@
 </div>
   
 ## Projetos em Andamento
-<a href="https://github.com/luisaxsz/Angular-Alura">
-    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Angular-Alura&theme=radical&border_radius=20"/>
+<a href="https://github.com/luisaxsz/Curso-Kubernets-Alura">
+    <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Curso-Kubernets-Alura&theme=radical&border_radius=20"/>
   </a>
 
 
