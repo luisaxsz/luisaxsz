@@ -1,8 +1,8 @@
 ## Olá!! Eu sou a Maria Luisa.
 
-*  Sou estudante de ciências da computação atualmente no 6° semestre.
+*  Sou estudante de ciências da computação atualmente no 7° semestre.
 *  Estágiaria em desenvolvimento full stack com java e angular.
-*  Estudando atualmente kubernets e aprimorando minhas habilidades em java e angular.
+
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&hide_progress=true&theme=radical"><img>
@@ -11,19 +11,27 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Rabbit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center"  height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img  align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img  align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
+  <img  align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
   <img  align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img  align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
   
 ## Projetos em Andamento
 <a href="https://github.com/luisaxsz/Curso-Kubernets-Alura">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Curso-Kubernets-Alura&theme=radical&border_radius=20"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Formacao-POO-PHP&theme=radical&border_radius=20"/>
   </a>
 
 
