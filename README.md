@@ -26,11 +26,6 @@
   <img  align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
-  
-## Projetos em Andamento
-<a href="https://github.com/luisaxsz/Curso-Kubernets-Alura">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxsz&repo=Formacao-POO-PHP&theme=radical&border_radius=20"/>
-  </a>
 
 
   ## Onde você pode me achar
