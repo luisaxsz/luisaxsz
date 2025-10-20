@@ -1,6 +1,5 @@
 ## Olá!! Eu sou a Maria Luisa.
 
-*  Sou estudante de ciências da computação atualmente no 7° semestre.
 *  Estágiaria em desenvolvimento full stack com java e angular.
 
 <div align="left">
