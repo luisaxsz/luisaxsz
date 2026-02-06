@@ -3,10 +3,10 @@
 *  Desenvolvedora Full-Stack Júnior no Tribunal Eleitoral do Pará
 *  Bacharelado em Ciências da Computação
 
-<div align="left">
+<!-- <div align="left">
   <a href="hhttps://github.com/luisaxsz">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxsz&hide_progress=true&theme=radical"><img>
-</div>
+</div> -->
 <div style="display: inline_block;"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
