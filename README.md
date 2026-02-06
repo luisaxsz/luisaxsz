@@ -1,6 +1,7 @@
 ## Olá!! Eu sou a Maria Luisa.
 
-*  Estágiaria em desenvolvimento full stack com java e angular.
+*  Desenvolvedora Full-Stack Júnior no Tribunal Eleitoral do Pará
+*  Bacharelado em Ciências da Computação
 
 <div align="left">
   <a href="hhttps://github.com/luisaxsz">
