@@ -15,7 +15,7 @@ Bacharel em Ciência da Computação, desenvolvedora no Tribunal Regional Eleito
 ## Projetos em destaque
 - [Controle-Gastos-2.0](https://github.com/luisaxsz/Controle-Gastos-2.0): controle financeiro com Spring Boot, Angular, Oracle e Keycloak
 - [teste_pagamentos](https://github.com/luisaxsz/teste_pagamentos): gestão de pagamentos com Java 21, Angular 20 e Oracle
-- [Api-Filmes](https://github.com/luisaxsz/Api-Filmes): API REST com Flyway, Docker e CI
+- [Api-Filmes](https://github.com/luisaxsz/Api-Filmes): API REST com Flyway e Docker
 
 ## Stack
 <div align="center">
