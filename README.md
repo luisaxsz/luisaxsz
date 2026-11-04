@@ -82,7 +82,6 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luisaxsz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=luisaxsz&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=luisaxsz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
